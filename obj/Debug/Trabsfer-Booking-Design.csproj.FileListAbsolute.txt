@@ -1,0 +1,11 @@
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\bin\Debug\Trabsfer-Booking-Design.exe.config
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\bin\Debug\Trabsfer-Booking-Design.exe
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\bin\Debug\Trabsfer-Booking-Design.pdb
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\obj\Debug\Trabsfer-Booking-Design.csproj.AssemblyReference.cache
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\obj\Debug\Trabsfer-Booking-Design.csproj.SuggestedBindingRedirects.cache
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\obj\Debug\Trabsfer_Booking_Design.Form1.resources
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\obj\Debug\Trabsfer_Booking_Design.Properties.Resources.resources
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\obj\Debug\Trabsfer-Booking-Design.csproj.GenerateResource.cache
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\obj\Debug\Trabsfer-Booking-Design.csproj.CoreCompileInputs.cache
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\obj\Debug\Trabsfer-Booking-Design.exe
+C:\Users\CAMBODIA\source\repos\Trabsfer-Booking-Design\Trabsfer-Booking-Design\obj\Debug\Trabsfer-Booking-Design.pdb
